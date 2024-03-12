@@ -1,0 +1,37 @@
+body {
+        height: 100vh;
+        margin: 50px;
+
+        background-color: salmon;
+        font-family: "Fredoka", sans-serif;
+        font-optical-sizing: auto;
+        font-style: normal;
+        color: white;
+}
+
+h1 {
+        padding: 30px;
+        font-size: 50px;
+}
+
+#startButton {
+        background-color: rgb(240, 168, 159);
+        font-family: "Fredoka", sans-serif;
+        font-optical-sizing: auto;
+        font-style: normal;
+
+        padding: 10px;
+}
+
+#stopButton {
+        background-color: rgb(240, 168, 159);
+        font-family: "Fredoka", sans-serif;
+        font-optical-sizing: auto;
+        font-style: normal;
+
+        padding: 10px;
+}
+
+#AIPageButton{
+    padding: 10px;
+}
